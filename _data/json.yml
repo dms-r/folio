@@ -1,0 +1,30 @@
+- key: Name
+  value: Dimas R
+- key: Description
+  value:
+    - Hi 👋
+    - My name is Dimas
+    - I'm Systems Administrator
+    - And also Linux & Security Enthusiast
+  typed: true
+- key: Project
+  value:
+    - value: Virtual Home Server
+      url: https://github.com/dms-r
+    - value: Penetration Testing CBT App
+      url: https://github.com/dms-r
+    # - value:
+- key: Contact
+  value:
+    - key: Email
+      value: dimas@dpublic.my.id
+      url: "mailto:dimas@dpublic.my.id"
+- key: Profiles
+  value:
+    - value: GitHub
+      url: https://github.com/dms-r
+    - value: Medium
+      url: https://dms-r.medium.com
+- key: Resume
+  value: resume.pdf (404 for now)
+  url: /resume.pdf
