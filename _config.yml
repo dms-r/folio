@@ -1,7 +1,7 @@
 title: Hacked Jekyll
 description: Jekyll microtheme that looks like JSON
-baseurl: /
-url: https://dms-r.github.io
+baseurl: 
+url: https://dms-r.github.io/
 
 lowercase: false
 
