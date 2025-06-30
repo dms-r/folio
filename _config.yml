@@ -2,10 +2,19 @@ title: Dimas Site
 description: Just minimal portofolio site
 baseurl: 
 url: https://dms-r.github.io/
-
-lowercase: false
-
 theme: hacked-jekyll
+
+
+color_bg: gray-9
+color_punct: gray-1 # Set the color of quotes, commas, and brackets
+color_key: grey-1
+color_value: green-4
+color_hover: blue-3 # Set the color of values on hover (if they are links)
+
+commas: true
+newtab: true
+quotes: values
+lowercase: false
 
 exclude:
   - LICENSE
