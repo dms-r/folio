@@ -11,15 +11,15 @@
 
 - key: Projects
   value:
-    - value: Virtual Home Server
-      url: https://github.com/dms-r
+    - value: Home Server Using Virtualbox
+      url: 
     - value: Penetration Testing CBT App (writeup coming soon)
       url: https://github.com/dms-r
     - value: Automation Backup Using Rsync + Cron
       url: https://dms-r.medium.com/87c3036f50c2
     - value: Monitoring Server Using Grafana
       url: https://dms-r.medium.com/8f2e5abcf4e8
-    - value: Automation Multi Server Using Ansible
+    - value: Manage Multi Server Using Ansible
       url: https://dms-r.medium.com/e0ae1a1135de
 
 - key: Contact
