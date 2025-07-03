@@ -1,5 +1,5 @@
 - key: Name
-  value: Dimas R
+  value: Dimas Refaldy
 
 - key: Description
   value:
@@ -11,15 +11,15 @@
 
 - key: Projects
   value:
-    - value: Home Server Using Virtualbox
-      url: 
-    - value: Penetration Testing CBT App (writeup coming soon)
+    - value: Home Server Using Virtualbox (writing catches up)
       url: https://github.com/dms-r
-    - value: Automation Backup Using Rsync + Cron
+    - value: Penetration Testing CBT App (Undisclosed)
+      url: https://medium.com/dms-r
+    - value: Rsync + Cron Backup Automation
       url: https://dms-r.medium.com/87c3036f50c2
-    - value: Monitoring Server Using Grafana
+    - value: Monitoring Server with Grafana + Prometheus
       url: https://dms-r.medium.com/8f2e5abcf4e8
-    - value: Manage Multi Server Using Ansible
+    - value: Server Automation with Ansible
       url: https://dms-r.medium.com/e0ae1a1135de
 
 - key: Contact
@@ -30,6 +30,9 @@
 
 - key: Social
   value:
+    - key: LinkedIn
+      value: dimas-refaldy
+      url: https://www.linkedin.com/in/dimas-refaldy/
     - key: Github
       value: dms-r
       url: https://github.com/dms-r
@@ -38,5 +41,5 @@
       url: https://dms-r.medium.com
 
 - key: Resume
-  value: resume.pdf (coming soon)
-  url: /resume.pdf
+  value: resume.pdf
+  url: /Resume Dimas Refakdy - Sysadmin.pdf
