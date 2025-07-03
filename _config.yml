@@ -5,10 +5,10 @@ url: https://dms-r.github.io/
 theme: hacked-jekyll
 
 
-color_bg: gray-9
+color_bg: gray-8
 color_punct: gray-1 # Set the color of quotes, commas, and brackets
-color_key: grey-1
-color_value: green-4
+color_key: yellow-1
+color_value: lime-5
 color_hover: blue-3 # Set the color of values on hover (if they are links)
 
 commas: true
